@@ -1,0 +1,78 @@
+
+/* Class = "UILabel"; text = "00:00:00です！"; ObjectID = "5KB-lI-8ds"; */
+"5KB-lI-8ds.text" = "00:00:00です！";
+
+/* Class = "UIButton"; configuration.title = "結果を共有する"; ObjectID = "8Bj-81-DKD"; */
+"8Bj-81-DKD.configuration.title" = "結果を共有する";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8Bj-81-DKD"; */
+"8Bj-81-DKD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "Fya-xa-lMq"; */
+"Fya-xa-lMq.text" = "00:00:00";
+
+/* Class = "UIButton"; configuration.title = "トップ画面に戻る"; ObjectID = "GC1-Xf-g1E"; */
+"GC1-Xf-g1E.configuration.title" = "トップ画面に戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GC1-Xf-g1E"; */
+"GC1-Xf-g1E.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "ランキングを確認する"; ObjectID = "KZG-DA-aBK"; */
+"KZG-DA-aBK.configuration.title" = "ランキングを確認する";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KZG-DA-aBK"; */
+"KZG-DA-aBK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "10/15"; ObjectID = "Mhf-bM-nWY"; */
+"Mhf-bM-nWY.text" = "10/15";
+
+/* Class = "UIButton"; configuration.title = "ランキングを確認！"; ObjectID = "Nkl-O7-LCz"; */
+"Nkl-O7-LCz.configuration.title" = "ランキングを確認！";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Nkl-O7-LCz"; */
+"Nkl-O7-LCz.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "何回のランキングかタップで決めてね！"; ObjectID = "cF3-w3-dyi"; */
+"cF3-w3-dyi.placeholder" = "何回のランキングかタップで決めてね！";
+
+/* Class = "UITextField"; placeholder = "ここをタップして回数を決めてね！"; ObjectID = "gvu-qh-HJD"; */
+"gvu-qh-HJD.placeholder" = "ここをタップして回数を決めてね！";
+
+/* Class = "UILabel"; text = "早押しハッシュタグ選手権！"; ObjectID = "iHH-Yn-iy8"; */
+"iHH-Yn-iy8.text" = "早押しハッシュタグ選手権！";
+
+/* Class = "UILabel"; text = "ランキング"; ObjectID = "lZ1-si-CVA"; */
+"lZ1-si-CVA.text" = "ランキング";
+
+/* Class = "UIButton"; configuration.title = "トップ画面に戻る"; ObjectID = "oCg-as-WGW"; */
+"oCg-as-WGW.configuration.title" = "トップ画面に戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "oCg-as-WGW"; */
+"oCg-as-WGW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "回"; ObjectID = "oeO-wj-hft"; */
+"oeO-wj-hft.text" = "回";
+
+/* Class = "UILabel"; text = "あなたの今回の記録は...?"; ObjectID = "pjW-kh-ny1"; */
+"pjW-kh-ny1.text" = "あなたの今回の記録は...?";
+
+/* Class = "UIButton"; configuration.title = "トップ画面に戻る"; ObjectID = "rWo-pY-5si"; */
+"rWo-pY-5si.configuration.title" = "トップ画面に戻る";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rWo-pY-5si"; */
+"rWo-pY-5si.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "ここに記録するユーザー名を記入してね！"; ObjectID = "rg2-sm-qW2"; */
+"rg2-sm-qW2.placeholder" = "ここに記録するユーザー名を記入してね！";
+
+/* Class = "UIButton"; configuration.title = "ゲームを始める！"; ObjectID = "wk8-by-1WT"; */
+"wk8-by-1WT.configuration.title" = "ゲームを始める！";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wk8-by-1WT"; */
+"wk8-by-1WT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "回"; ObjectID = "yG9-ut-BaM"; */
+"yG9-ut-BaM.text" = "回";
+
+/* Class = "UILabel"; text = "自分の順位もランキングボタンで確認できるよ！"; ObjectID = "zzH-ms-Zcb"; */
+"zzH-ms-Zcb.text" = "自分の順位もランキングボタンで確認できるよ！";
